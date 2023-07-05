@@ -1,3 +1,5 @@
+package Stack;
+
 public class TwoStacks {
     private int[] arr;
     private int size;
